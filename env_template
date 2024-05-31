@@ -1,0 +1,9 @@
+# This is the file used by dotenv module to set up protected variables
+# 1. Rename this file to .env before running the code
+# 2. Replace <> placeholders with appropriate values; if MySQL is run locally or in Docker, the host variable should be = localhost
+# 3. Example: MYSQL_HOST=localhost
+
+MYSQL_USER=<username>
+MYSQL_PASSWORD=<password>
+MYSQL_HOST=<hostname>
+MYSQL_DB=<db_name>
